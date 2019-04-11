@@ -1,8 +1,14 @@
-# README #
+# Test case #
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
+### Time to execute  operation for 20000 data ###
+* Store operators = 1:5 min (according to my localhost)
+* Generate and store binary search tree = 1 min (according to my localhost)
+* Search operator only in about a second 
+
+
+
+
 
 Browse store.phh
 -------------------------------------------
